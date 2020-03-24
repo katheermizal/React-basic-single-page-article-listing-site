@@ -3,11 +3,11 @@ Create Article Listing page and Detail page with basic navigation
 
 <br />
 Should Have a knowledge in <br />
-1. ES6
-2. React
-3. Boostrap
-4. react-boostrap
-5. react route
+1. ES6<br />
+2. React<br />
+3. Boostrap<br />
+4. react-boostrap<br />
+5. react route<br />
 
 ## Preview
 ![](screen-capture.gif)
