@@ -1,1 +1,1 @@
-# react-basic-single-page-article-listing-site
+# Create react single page appictaion for basic article listing site
